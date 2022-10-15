@@ -2,7 +2,9 @@ By inviting the Holo Bot to your gulid or being in a gulid with it, you agree to
  
  - Gulid ID ( Whenever Holo is invited to a Gulid )
  - User ID ( Whenever you execute a Holo command or send a message in a gulid with logging enabled. )
- - Message Content ( If a gulid has logging enabled. ) *Stored for a maximum of 30 days 
+ - Message Content ( If a gulid has logging enabled. ) *Stored for a maximum of 30 days
+
+If you are a user wishing not to have your messages logged in a guild with logging enabled, you will need to leave the guild.
  
  Any additional information you provide to Holo Bot, such as birth date or timezone, for additional functionaly, is at your own leisure.
  
